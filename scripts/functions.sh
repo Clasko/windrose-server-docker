@@ -49,6 +49,7 @@ install() {
 
   /depotdownloader/DepotDownloader \
     -app 4129620 \
+    -os windows \
     -dir /home/steam/server-files \
     -validate
 
